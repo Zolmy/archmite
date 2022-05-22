@@ -11,5 +11,5 @@
 	* From: city leaders
 * In the canyon found crates with maps and other personal items
 * Bandits hiding in tents got smoked out
-* Sniper was hiding in the <del>bushes</del> rocks
+* Sniper was hiding in the ~~bushes~~ rocks
 * Sniper gets seduced and tied up
