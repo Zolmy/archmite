@@ -10,6 +10,7 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
+  - mdx_del_ins
   # - attr_list
   # - pymdownx.arithmatex
   # - pymdownx.superfences
