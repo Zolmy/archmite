@@ -12,7 +12,7 @@
 * Bought milk from tech shop
 * Shrodinger's Supplies purchased from Misty (BFF of Irena)
 
-## The Party
+## The Party Minus One
 * Loki makes 7 grenade shells for Lyra (Gunpowder coming TUHN)
 * Less successfully keeps watch despite being drunk
 * Loki is too distracted by a book and does not notice many Owlbears approaching
