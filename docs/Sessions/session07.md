@@ -19,4 +19,7 @@
             * Bounty Hunters
             * Muito Peligro
             * ROCANO
-* We're going to Rocano?!
+* Massive shockwave in Percy
+    * Tons of stuff destroyed and caved in
+    * Red / orange glow from the South under smoke stacks.
+* We're going to Rocano!
