@@ -17,4 +17,4 @@
 * Deck Satchel 5 - Party 0
 
 ## Item Drops
-* Uriel Spear / Scarf
+* Uriel Scarf
