@@ -19,4 +19,4 @@
 
 ## Item Drops
 * Gold Nugget
-* Mystery Lyra Item
+* Lyra (Ring of Shadows)
