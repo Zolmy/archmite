@@ -14,6 +14,7 @@
 * Archmite is BAK
 * Evil org is made of his followers
 * The room was an illusion
+* Last battery turns off, tug in town center
 
 ## Item Drops
 * Stingy bastard
